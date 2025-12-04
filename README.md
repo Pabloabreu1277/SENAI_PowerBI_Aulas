@@ -29,3 +29,7 @@ Demonstrar autonomia
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="600" alt="coding-time" src="Aula02-Grafico de barras e placar com botoes de link de tela.png">
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Exercício 1 – Criar e Customizar um Cartão + Gráfico de Barras .png">
