@@ -28,4 +28,4 @@ Demonstrar autonomia
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="600" alt="coding-time" src=".PNG">
+    <img align="center" height="600" alt="coding-time" src="Aula02-Grafico de barras e placar com botoes de link de tela.PNG">
