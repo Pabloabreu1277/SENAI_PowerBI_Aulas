@@ -25,3 +25,7 @@ Demonstrar autogestão
 Demonstrar pensamento analítico
 Demonstrar inteligência emocional
 Demonstrar autonomia
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src=".PNG">
