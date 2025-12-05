@@ -33,3 +33,8 @@ Demonstrar autonomia
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="600" alt="coding-time" src="Exercício 1 – Criar e Customizar um Cartão + Gráfico de Barras .png">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Exercício 2 – Dash de vendas .png">
+
+    Exercício 2 – Dash de vendas .png
