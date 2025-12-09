@@ -37,4 +37,8 @@ Demonstrar autonomia
   <div style="display: inline_block"><br>
     <img align="center" height="600" alt="coding-time" src="Exercício 2 – Dash de vendas .png">
 
-    Exercício 2 – Dash de vendas .png
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="exercicio 3 treino dash vendas.png">
+
+  
