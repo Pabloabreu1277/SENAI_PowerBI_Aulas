@@ -43,10 +43,11 @@ Demonstrar autonomia
     
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="600" alt="coding-time" src="exercicio 4 treino dash vendas .png">
+    <img align="center" height="600" alt="coding-time" src="exercicio 4 treino dash vendas.png">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="600" alt="exercicio 5 - adicionando moldura.png">
+     <img align="center" height="600" alt="coding-time" src="exercicio 5 - adicionando moldura.png">
+
 
   
