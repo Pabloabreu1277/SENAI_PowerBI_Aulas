@@ -48,6 +48,8 @@ Demonstrar autonomia
 <div  align="center"> 
   <div style="display: inline_block"><br>
      <img align="center" height="600" alt="coding-time" src="exercicio 5 - adicionando moldura.png">
-
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Exercicio 6 - Power Query Dashboard.png">
 
   
