@@ -52,4 +52,23 @@ Demonstrar autonomia
   <div style="display: inline_block"><br>
      <img align="center" height="600" alt="coding-time" src="Exercicio 6 - Power Query Dashboard.png">
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Dash aula 07 final.png">
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Exercicio 7 power query 2.png">
+    
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Dash aula 8.png">
+    
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Rank Vendedores - Aula 09.png">
+
+
+    
+
   
