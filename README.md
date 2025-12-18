@@ -55,10 +55,6 @@ Demonstrar autonomia
 <div  align="center"> 
   <div style="display: inline_block"><br>
      <img align="center" height="600" alt="coding-time" src="Dash aula 07 final.png">
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-     <img align="center" height="600" alt="coding-time" src="Exercicio 7 power query 2.png">
     
 <div  align="center"> 
   <div style="display: inline_block"><br>
