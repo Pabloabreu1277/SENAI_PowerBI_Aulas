@@ -64,6 +64,12 @@ Demonstrar autonomia
   <div style="display: inline_block"><br>
      <img align="center" height="600" alt="coding-time" src="Rank Vendedores - Aula 09.png">
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+     <img align="center" height="600" alt="coding-time" src="Aula 09 Exercicios de dax .png">
+
+
+
 
     
 
